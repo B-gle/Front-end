@@ -1,0 +1,30 @@
+{
+  "name": "b.gle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B-gle/Front-end.git"
+  },
+  "author": "Nesoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B-gle/Front-end/issues"
+  },
+  "homepage": "https://github.com/B-gle/Front-end#readme",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-resource": "^1.6.4",
+    "angular-route": "^1.6.4",
+    "express": "^4.15.3",
+    "nodemon": "^1.11.0",
+    "semantic-ui-css": "^2.2.10"
+  },
+  "devDependencies": {
+    "webpack": "^2.6.1"
+  }
+}
